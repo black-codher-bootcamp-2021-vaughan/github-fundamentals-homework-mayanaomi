@@ -1,7 +1,18 @@
 # What ive learnt so far :computer:
 ## Introducton into software development
-the product development lifecycle- which involved 
-###### Planning *concieving* :arrow_right: ###### Analysis *Specifying* :arrow_right: ###### Design :arrow_right: ###### Implementation *Programming* :arrow_right:###### Testing *Intergration* :arrow_right: ###### Maintainance *bug fixing*
+
+The product development lifecycle- which involved 
+###### Planning *concieving* :brain:
+:arrow_right: 
+###### Analysis *Specifying*  :chart_with_upwards_trend:
+:arrow_right: 
+###### Design :art:
+:arrow_right: 
+###### Implementation *Programming* :ballot_box_with_check:
+:arrow_right:
+###### Testing *Intergration* :test_tube:
+:arrow_right: 
+###### Maintainance *bug fixing* :dna:
 
 ###### Methodologies
 The different types of methodologies include Agile, waterfall, rapid and spiral
