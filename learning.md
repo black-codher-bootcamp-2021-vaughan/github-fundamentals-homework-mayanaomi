@@ -1,10 +1,13 @@
 # What ive learnt so far :computer:
 ## Introducton into software development
-the product development lifecycle- which involved planning (concieving)>>> Analysis (Specifying)>>> Design>>> Implementation (Programming)>>> Testing (Intergration) >>> Maintainance (bug fixing)
-*Methodologies*
+the product development lifecycle- which involved 
+###### Planning *concieving* :arrow_right: ###### Analysis *Specifying* :arrow_right: ###### Design :arrow_right: ###### Implementation *Programming* :arrow_right:###### Testing *Intergration* :arrow_right: ###### Maintainance *bug fixing*
+
+###### Methodologies
 The different types of methodologies include Agile, waterfall, rapid and spiral
 The most common methodologies are agile- more modern and waterfall- most traditional
-*Possible tech careers*
+
+###### Possible tech careers
 such as Front end developer, back end developer, full stack developer, Devops engenieer, Scrummaster, web developers, mobile developers
 The programs which they have to use varies but some of the most common languages are Javascript, Java, HTML
 
